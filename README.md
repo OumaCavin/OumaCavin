@@ -1,22 +1,23 @@
 # 👋 Hi, I'm Cavin Otieno Ouma! 
 **🚀 AI Engineer | Triple AI Certified | Generative AI Specialist**
+
 [![Oracle Cloud Infrastructure Generative AI Professional](https://img.shields.io/badge/Oracle%20Cloud-Generative%20AI%20Professional-FF0000?style=flat&logo=oracle&logoColor=white)](https://www.oracle.com)
 [![Huawei HCIA-AI](https://img.shields.io/badge/Huawei-HCIA--AI%20H13--311-FF0000?style=flat&logo=huawei&logoColor=white)](https://www.huawei.com)
 [![OIAI AI Literacy](https://img.shields.io/badge/OIAI-AI%20Literacy%20Skills-00A86B?style=flat&logo=google-ai&logoColor=white)](https://oi.ai)
-*Nairobi, Kenya* • *otienocavin@gmail.com* • *[LinkedIn](https://www.linkedin.com/in/cavin-otieno-9a841260/)* • *[GitHub](https://github.com/OumaCavin)*
+
+*Nairobi, Kenya* • *cavin.otieno012@gmail.com* • *[LinkedIn](https://www.linkedin.com/in/cavin-otieno-9a841260/)* • *[GitHub](https://github.com/OumaCavin)*
 ---
 ## 🎓 **Current AI Education & Training**
 ### 🏢 **BCS Technology + Open University of Kenya**
 **Building Generative AI Applications Program** *(Currently Enrolled - Weeks 4-8 of 10)*
 - **Jac Programming** & **Jaseci Platform** (Agentic AI development)
-- **Top 100 Scholarship Recipient** for BCS Kenya AI Innovation Lab
 - Learning **enterprise-scale Generative AI applications**
 ---
 ## 🏆 **Triple AI Certification Portfolio**
 ### 🔥 **Technical AI Mastery**
 | Certification | Focus Area | Date |
 |---------------|------------|------|
-| **Oracle Cloud Infrastructure Generative AI Professional** | Enterprise AI Architecture, OCI AI Services, Security | 2025 |
+| **Oracle Cloud Infrastructure Generative AI Professional** | Enterprise AI Architecture, OCI AI Services, Security | Nov 2025 |
 | **Huawei HCIA-AI (H13-311)** | Foundation Models, MindSpore Framework, Deep Learning | Oct 2025 |
 | **OIAI AI Literacy Skills Certified** | AI Ethics, Responsible AI, Human-Centered Design | Sep 2025 |
 ---
@@ -84,7 +85,6 @@
 - **Jaseci Platform**: Cutting-edge agent orchestration framework
 - **Enterprise AI**: Scaling Generative AI for production environments
 ### 🚀 **Career Objectives**
-- **Next Role**: Junior AI Engineer at BCS Technology International
 - **Mission**: Drive AI innovation while maintaining ethical standards
 - **Vision**: Building AI systems that serve humanity responsibly
 ---
@@ -105,8 +105,9 @@ I'm always excited to connect with fellow AI enthusiasts, potential collaborator
 - 🏅 **Top 100 Scholar** - BCS Kenya AI Innovation Lab
 ---
 *"Building the future of AI, one responsible solution at a time."*
-<div align="center">
 ### 🚀 **Ready to innovate with AI? Let's build something amazing together!**
+<div align="center">
+
 [![Connect with me on LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cavin-otieno-9a841260/)
 [![View my CV](https://img.shields.io/badge/Resume-FF6B6B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/OumaCavin/Cavin_Otieno_Ouma_Ultimate_CV)
 [![Chat on Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:otienocavin@gmail.com)
