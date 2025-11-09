@@ -90,8 +90,8 @@
 ---
 ## 🤝 **Let's Connect & Collaborate**
 I'm always excited to connect with fellow AI enthusiasts, potential collaborators, and industry professionals!
-- 📧 **Email**: cavin.otieno012@gmail.com
-- 💼 **LinkedIn**: [cavin-otieno-9a841260](https://www.linkedin.com/in/cavin-otieno-9a841260/)
+- 📧 **Email**: [Cavin-Otieno](mailto:cavin.otieno012@gmail.com)
+- 💼 **LinkedIn**: [Cavin-Otieno](https://www.linkedin.com/in/cavin-otieno-9a841260/)
 - 💻 **GitHub**: [OumaCavin](https://github.com/OumaCavin)
 - 🌍 **Location**: Nairobi, Kenya
 ---
@@ -104,10 +104,10 @@ I'm always excited to connect with fellow AI enthusiasts, potential collaborator
 ---
 *"Building the future of AI, one responsible solution at a time."*
 
-<div align="center">
 ### 🚀 **Ready to innovate with AI? Let's build something amazing together!**
+<div align="center">
   
 [![Connect with me on LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cavin-otieno-9a841260/)
 [![View my CV](https://img.shields.io/badge/Resume-FF6B6B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/OumaCavin/Cavin_Otieno_Ouma_Ultimate_CV)
-[![Chat on Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:otienocavin@gmail.com)
+[![Chat on Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cavin.otieno012@gmail.com)
 </div>
