@@ -9,7 +9,7 @@
 ---
 ## 🎓 **Current AI Education & Training**
 ### 🏢 **BCS Technology + Open University of Kenya**
-**Building Generative AI Applications Program** *(Currently Enrolled - Weeks 4-8 of 10)*
+**Building Generative AI Applications Program** 
 - **Jac Programming** & **Jaseci Platform** (Agentic AI development)
 - Learning **enterprise-scale Generative AI applications**
 ---
