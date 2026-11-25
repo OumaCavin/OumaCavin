@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Cavin Otieno Ouma! 
-**🚀 AI Engineer | Triple AI Certified | Generative AI Specialist**
+**🚀 AI Engineer | Agentic AI & Generative AI Specialist | Enterprise AI Systems | Full-Stack Software Engineer | Public Health Data Science**
 
 [![Oracle Cloud Infrastructure Generative AI Professional](https://img.shields.io/badge/Oracle%20Cloud-Generative%20AI%20Professional-FF0000?style=flat&logo=oracle&logoColor=white)](https://www.oracle.com)
 [![Huawei HCIA-AI](https://img.shields.io/badge/Huawei-HCIA--AI%20H13--311-FF0000?style=flat&logo=huawei&logoColor=white)](https://www.huawei.com)
@@ -20,6 +20,40 @@
 | **Oracle Cloud Infrastructure Generative AI Professional** | Enterprise AI Architecture, OCI AI Services, Security | Nov 2025 |
 | **Huawei HCIA-AI (H13-311)** | Foundation Models, MindSpore Framework, Deep Learning | Oct 2025 |
 | **OIAI AI Literacy Skills Certified** | AI Ethics, Responsible AI, Human-Centered Design | Sep 2025 |
+
+[Microsoft запустила экзамен на знание и умение пользоваться ИИ‑агентами — Exam GH-600 Agentic AI Developer (beta) / Хабр](https://images.openai.com/static-rsc-4/hI2VF2vHp02P81CPrnHDdVns2nuiQfHcKABzZinwpouUCnch1G-lNSH9Q-QS1d-nxqcVWd2rsoaCjAZNiIkBr6Ty3kL74G5ncjUDjNsBUM8ZrzQEVU6nek-rb8jZMCcP3pQtllxedanY6mnvDxIqoFTMLprvGMfTwuBtpPAzMT4?purpose=inline)
+
+**GitHub Certified: Agentic AI Developer**
+
+Microsoft · November 2026
+
+New
+
+[GitHub Copilot - Credly](https://images.openai.com/static-rsc-4/7z8iBxAy7gDj0YS5uLfT2DhzPqpPo1EGUfY6LVxBnS0ca90e-7kb2VJS1kBvxeVWiT6-pOR3a0kDHpHFS3g3jWeBGSCLeTtW6XG2oLcESd-oiMFkTirf3h2gaLhiBQxNN2G9VjUnYl8A3pHfr1yB2R4aAoNOBB1vQgJRVYv0akk?purpose=inline)
+
+**GitHub Copilot Certification**
+
+Microsoft · May 2026
+
+[Gurleen Kaur Bali | Portfolio](https://images.openai.com/static-rsc-4/fTATZNjiLyEK1n8I_9-qI8N5TAbsiaOAh-MEEed_Kl7VowFQQggSgW4nya4JQIvVG3uMoGyoXLeh6AF-r6VHtgKG9eyyjg-jPb260AHibMlUoIDCrs1TLskkIuJjMUzWRQDoMWO7uhGX4Fq1VQqyLwZ8n1H2I77Z2rRWF8J4HcI?purpose=inline)
+
+**Oracle Cloud Infrastructure 2025 Certified Generative AI Professional**
+
+Oracle · December 2025
+
+["أخصائي مساعد تقنية المعلومات والاتصالات المعتمد من هواوي - الذكاء الاصطناعي" Huawei Certified ICT Associate-AI  | المعهد الأهلي العالي للتدريب](https://images.openai.com/static-rsc-4/NZvFezqVfpgzV10Ab6nT1-GAV1cgCrn7ufUDJ-97NX7n9hq_OvZerufQaZ17OklK677-OWGtlBXU8piH_UkkbF7_1Wl34EeOo48tg-R6Gc0DoDe_nyGK6bL2bbH4LGe5nUN43MhWj5UOpHb8MfNeMh9zHDMOgm9AFEePdEcW_mA?purpose=inline)
+
+**Huawei HCIA-AI (H13-311)**
+
+Huawei · October 2025
+
+[OIAI Instructions - Desktop and Laptops (Windows) AI Literacy Programme (OI - LEAD 2025) 08302025 | PDF | Artificial Intelligence | Intelligence (AI) & Semantics](https://images.openai.com/static-rsc-4/lebxp1Fj3McxNXf1RwwPbVG7wHskuX94oc-6hW2xIOrxCgUFGtRY-DqBwvrO9VmNxdehPC9GyhJVQhT1I39HZ_kN0DSwc7iK0OPWbic39JAiHC59jAdNfviWWec6tnuqMyH0MYxY3ICw-Ic6NeYf4DgRtVqsSaTvJqS84dOWJ1g?purpose=inline)
+
+**OIAI AI Literacy Skills Certified**
+
+September 2025
+
+
 ---
 ## 💻 **AI Engineering Expertise**
 ### 🤖 **Generative AI & Foundation Models**
