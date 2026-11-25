@@ -1,9 +1,12 @@
-# 👋 Hi, I'm Cavin Otieno Ouma! 
+# 👋 Hi, I'm Cavin Otieno Ouma!
+
 **🚀 AI Engineer | Agentic AI & Generative AI Specialist | Enterprise AI Systems | Full-Stack Software Engineer | Public Health Data Science**
 
-[![Oracle Cloud Infrastructure Generative AI Professional](https://img.shields.io/badge/Oracle%20Cloud-Generative%20AI%20Professional-FF0000?style=flat&logo=oracle&logoColor=white)](https://www.oracle.com)
-[![Huawei HCIA-AI](https://img.shields.io/badge/Huawei-HCIA--AI%20H13--311-FF0000?style=flat&logo=huawei&logoColor=white)](https://www.huawei.com)
-[![OIAI AI Literacy](https://img.shields.io/badge/OIAI-AI%20Literacy%20Skills-00A86B?style=flat&logo=google-ai&logoColor=white)](https://oi.ai)
+[![GitHub Certified: Agentic AI Developer](https://img.shields.io/badge/Microsoft-Agentic%20AI%20Developer-5C2D91?style=flat&logo=github&logoColor=white)](https://learn.microsoft.com/en-us/users/cavino-5547/credentials/852249aed5e511)
+[![GitHub Copilot Certification](https://img.shields.io/badge/Microsoft-GitHub%20Copilot-181717?style=flat&logo=githubcopilot&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/CavinO-5547/CB0ED74A794ED36A?sharingId=B487A490601A6E49)
+[![Oracle OCI Generative AI Professional](https://img.shields.io/badge/Oracle-OCI%20Generative%20AI%20Professional-F80000?style=flat&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=A730192727D3BC9B646055D6F4DCA2C01B71AD74FF236C0816D7B3EF2DFB331B)
+[![Huawei HCIA-AI](https://img.shields.io/badge/Huawei-HCIA--AI-FF0000?style=flat&logo=huawei&logoColor=white)](https://www.huawei.com)
+[![OIAI AI Literacy](https://img.shields.io/badge/OIAI-AI%20Literacy%20Skills-00A86B?style=flat&logo=google&logoColor=white)](https://oi.ai)
 
 *Nairobi, Kenya* • *cavin.otieno012@gmail.com* • *[LinkedIn](https://www.linkedin.com/in/cavin-otieno-9a841260/)* • *[GitHub](https://github.com/OumaCavin)*
 ---
@@ -13,45 +16,16 @@
 - **Jac Programming** & **Jaseci Platform** (Agentic AI development)
 - Learning **enterprise-scale Generative AI applications**
 ---
-## 🏆 **Triple AI Certification Portfolio**
+## 🏆 **Five AI & Technology Credentials Portfolio**
 ### 🔥 **Technical AI Mastery**
 | Certification | Focus Area | Date |
 |---------------|------------|------|
-| **Oracle Cloud Infrastructure Generative AI Professional** | Enterprise AI Architecture, OCI AI Services, Security | Nov 2025 |
-| **Huawei HCIA-AI (H13-311)** | Foundation Models, MindSpore Framework, Deep Learning | Oct 2025 |
-| **OIAI AI Literacy Skills Certified** | AI Ethics, Responsible AI, Human-Centered Design | Sep 2025 |
+| **GitHub Certified: Agentic AI Developer** | Agent Architecture, Tool Integration, Multi-Agent Orchestration, SDLC, AI Governance | Nov 2026 |
+| **GitHub Copilot Certification** | AI-Assisted Software Development, Prompt Engineering, Developer Productivity, Responsible AI | May 2026 |
+| **Oracle Cloud Infrastructure Generative AI Professional** | Generative AI, LLMs, RAG, Vector Databases, OCI Generative AI Servicey | Dec 2025 |
+| **Huawei HCIA-AI (H13-311)** | Artificial Intelligence, Machine Learning, Deep Learning, MindSpore | Oct 2025 |
+| **OIAI AI Literacy Skills Certified** | AI Literacy, Responsible AI, AI Ethics, Human-Centered AI | Sep 2025 |
 
-[Microsoft запустила экзамен на знание и умение пользоваться ИИ‑агентами — Exam GH-600 Agentic AI Developer (beta) / Хабр](https://images.openai.com/static-rsc-4/hI2VF2vHp02P81CPrnHDdVns2nuiQfHcKABzZinwpouUCnch1G-lNSH9Q-QS1d-nxqcVWd2rsoaCjAZNiIkBr6Ty3kL74G5ncjUDjNsBUM8ZrzQEVU6nek-rb8jZMCcP3pQtllxedanY6mnvDxIqoFTMLprvGMfTwuBtpPAzMT4?purpose=inline)
-
-**GitHub Certified: Agentic AI Developer**
-
-Microsoft · November 2026
-
-New
-
-[GitHub Copilot - Credly](https://images.openai.com/static-rsc-4/7z8iBxAy7gDj0YS5uLfT2DhzPqpPo1EGUfY6LVxBnS0ca90e-7kb2VJS1kBvxeVWiT6-pOR3a0kDHpHFS3g3jWeBGSCLeTtW6XG2oLcESd-oiMFkTirf3h2gaLhiBQxNN2G9VjUnYl8A3pHfr1yB2R4aAoNOBB1vQgJRVYv0akk?purpose=inline)
-
-**GitHub Copilot Certification**
-
-Microsoft · May 2026
-
-[Gurleen Kaur Bali | Portfolio](https://images.openai.com/static-rsc-4/fTATZNjiLyEK1n8I_9-qI8N5TAbsiaOAh-MEEed_Kl7VowFQQggSgW4nya4JQIvVG3uMoGyoXLeh6AF-r6VHtgKG9eyyjg-jPb260AHibMlUoIDCrs1TLskkIuJjMUzWRQDoMWO7uhGX4Fq1VQqyLwZ8n1H2I77Z2rRWF8J4HcI?purpose=inline)
-
-**Oracle Cloud Infrastructure 2025 Certified Generative AI Professional**
-
-Oracle · December 2025
-
-["أخصائي مساعد تقنية المعلومات والاتصالات المعتمد من هواوي - الذكاء الاصطناعي" Huawei Certified ICT Associate-AI  | المعهد الأهلي العالي للتدريب](https://images.openai.com/static-rsc-4/NZvFezqVfpgzV10Ab6nT1-GAV1cgCrn7ufUDJ-97NX7n9hq_OvZerufQaZ17OklK677-OWGtlBXU8piH_UkkbF7_1Wl34EeOo48tg-R6Gc0DoDe_nyGK6bL2bbH4LGe5nUN43MhWj5UOpHb8MfNeMh9zHDMOgm9AFEePdEcW_mA?purpose=inline)
-
-**Huawei HCIA-AI (H13-311)**
-
-Huawei · October 2025
-
-[OIAI Instructions - Desktop and Laptops (Windows) AI Literacy Programme (OI - LEAD 2025) 08302025 | PDF | Artificial Intelligence | Intelligence (AI) & Semantics](https://images.openai.com/static-rsc-4/lebxp1Fj3McxNXf1RwwPbVG7wHskuX94oc-6hW2xIOrxCgUFGtRY-DqBwvrO9VmNxdehPC9GyhJVQhT1I39HZ_kN0DSwc7iK0OPWbic39JAiHC59jAdNfviWWec6tnuqMyH0MYxY3ICw-Ic6NeYf4DgRtVqsSaTvJqS84dOWJ1g?purpose=inline)
-
-**OIAI AI Literacy Skills Certified**
-
-September 2025
 
 
 ---
@@ -105,7 +79,7 @@ September 2025
 - **Human-Centered AI**: Balancing technological innovation with human needs
 - **Digital Citizenship**: Responsible AI practices for Industry 4.0
 ### 🤝 **Community & Impact**
-- **Scholar Recipient**: Top 100 candidate for BCS Kenya AI Innovation Lab
+- **Scholar Recipient**: Top 5 candidate for BCS Kenya AI Innovation Lab
 - **Knowledge Sharing**: Active in AI community, mentoring emerging AI engineers
 - **Open Source**: Contributing to Generative AI development ecosystem
 ---
@@ -114,13 +88,27 @@ September 2025
 ![Cavin's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OumaCavin&layout=compact&theme=radical&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF)
 ---
 ## 🎯 **Current Focus & Goals**
-### 📚 **Learning Journey**
-- **Jac Programming**: Advanced agentic AI development (Week 4-8/10)
-- **Jaseci Platform**: Cutting-edge agent orchestration framework
-- **Enterprise AI**: Scaling Generative AI for production environments
-### 🚀 **Career Objectives**
-- **Mission**: Drive AI innovation while maintaining ethical standards
-- **Vision**: Building AI systems that serve humanity responsibly
+
+### 🚀 **Current Engineering Focus**
+- **Agentic AI Development**: Designing, integrating, evaluating, and orchestrating intelligent AI agents.
+- **Generative AI Engineering**: Building LLM-powered applications, conversational AI systems, and enterprise AI solutions.
+- **RAG & Knowledge Systems**: Developing Retrieval-Augmented Generation (RAG) applications, semantic search, and vector database integrations.
+- **Enterprise AI Solutions**: Engineering scalable AI applications, intelligent automation, and production-ready AI workflows.
+- **AI-Assisted Software Engineering**: Leveraging GitHub Copilot and AI-powered development workflows to improve software engineering productivity.
+
+### 🔬 **Research & Academic Focus**
+- **Public Health Data Science**: Applying statistical computing, machine learning, and advanced analytics to public health challenges.
+- **Medical Imaging AI**: Researching hybrid template-based modelling and deep learning approaches for intracranial aneurysm detection.
+- **Responsible AI**: Exploring AI fairness, model evaluation, clinical utility, and responsible AI applications in healthcare.
+
+### 🌱 **Continuous Learning & Development**
+- **Agentic AI Frameworks**: Advancing practical knowledge of Jac Programming, Jaseci, and multi-agent orchestration.
+- **Enterprise AI Architecture**: Deepening expertise in LLM integration, AI system evaluation, optimization, and deployment.
+- **Cloud AI Engineering**: Expanding capabilities in Oracle Cloud Infrastructure and enterprise AI ecosystems.
+
+### 🎯 **Career Objectives**
+- **Mission**: Engineer intelligent, scalable, and responsible AI solutions that address real-world enterprise and societal challenges.
+- **Vision**: Contribute to the advancement of Agentic AI, Generative AI, and AI-driven healthcare innovation through impactful engineering and research.
 ---
 ## 🤝 **Let's Connect & Collaborate**
 I'm always excited to connect with fellow AI enthusiasts, potential collaborators, and industry professionals!
@@ -134,7 +122,7 @@ I'm always excited to connect with fellow AI enthusiasts, potential collaborator
 - 🏆 **Pull Shark** - Advanced GitHub contributor
 - ⚡ **Quickdraw** - Fast issue resolution
 - 📊 **Active Contributor** - 44 repositories, continuous development
-- 🎓 **Triple AI Certified** - Technical + Ethical AI expertise
+- 🎓 **Five AI & Technology Credentials** - Technical + Ethical AI expertise
 ---
 *"Building the future of AI, one responsible solution at a time."*
 
