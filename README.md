@@ -10,11 +10,15 @@
 
 *Nairobi, Kenya* • *cavin.otieno012@gmail.com* • *[LinkedIn](https://www.linkedin.com/in/cavin-otieno-9a841260/)* • *[GitHub](https://github.com/OumaCavin)*
 ---
-## 🎓 **Current AI Education & Training**
-### 🏢 **BCS Technology + Open University of Kenya**
-**Building Generative AI Applications Program** 
-- **Jac Programming** & **Jaseci Platform** (Agentic AI development)
-- Learning **enterprise-scale Generative AI applications**
+## 🎓 **Professional Development & AI Training**
+
+### 🏢 **BCS Technology International + Open University of Kenya**
+**Building Generative AI Applications Program**
+
+- **Jac Programming & Jaseci Platform**: Agentic AI development and multi-agent application architecture.
+- **Generative AI Engineering**: Building practical LLM-powered applications and intelligent solutions.
+- **Enterprise AI Applications**: Exploring the development and integration of scalable Generative AI solutions.
+- **Applied AI Development**: Translating Generative AI concepts into practical software applications.
 ---
 ## 🏆 **Five AI & Technology Credentials Portfolio**
 ### 🔥 **Technical AI Mastery**
